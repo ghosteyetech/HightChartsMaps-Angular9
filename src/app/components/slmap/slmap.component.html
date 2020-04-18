@@ -1,0 +1,15 @@
+<p>slmap works!</p>
+<div class="boxChart__container">
+	<div>
+		<highcharts-chart
+			id="container" 
+			[Highcharts]="Highcharts"
+			[constructorType]="chartConstructor"
+			[options]="chartOptions"
+			[callbackFunction]="chartCallback"
+			[(update)]=updateFromInput
+			[oneToOne]="true"
+		 	style="width: 600px; height: 400px; display: block;">
+		</highcharts-chart>
+	</div>
+</div>

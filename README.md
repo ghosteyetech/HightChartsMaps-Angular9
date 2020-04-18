@@ -1,6 +1,8 @@
 # MediWavePwa
+This is sample Angular 9 application uses High Charts Maps library for showing a map.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
+## Demo Link
+https://sl-heat-map.web.app
 
 ## Development server
 
