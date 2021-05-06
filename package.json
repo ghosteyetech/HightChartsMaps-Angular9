@@ -22,7 +22,7 @@
     "@angular/service-worker": "~9.0.3",
     "@highcharts/map-collection": "^1.1.2",
     "admin-lte": "^3.0.4",
-    "highcharts": "^7.0.3",
+    "highcharts": "^9.0.0",
     "highcharts-angular": "^2.4.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
